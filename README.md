@@ -1,20 +1,11 @@
-### Hi there 👋
+<h1 align="center">About me :v: :smile:</h1>
 
-I'm <strong>Lucas Fernando</strong> - Front-end Developer. :desktop_computer:
+<p>Hello world 👋</p>
+<p>I'm <strong>Lucas Fernando</strong> - Front-end Developer at Nutrin Group. :desktop_computer:<p>
+<p>I'm passionate about web and mobile development :computer: :iphone:</p>
+
+<h2>My stats:</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&show_icons=true&theme=radical)
-
-<!--
-**Lucas98Fernando/Lucas98Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
