@@ -3,6 +3,7 @@
 <p>Hello world 👋</p>
 <p>I'm <strong>Lucas Fernando</strong> - Front-end Developer at Nutrin Group. :desktop_computer:<p>
 <p>I'm passionate about web and mobile development :computer: :iphone:</p>
+<p>Check out my <strong>portfolio</strong> for more information => <a href="https://lucas98fernando.github.io/portfolio/">Lucas Fernando Portfolio</a></p>
 
 <h2>My stats:</h2>
 
