@@ -7,4 +7,4 @@
 
 <h2>My stats:</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&show_icons=true&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
