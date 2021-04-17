@@ -2,17 +2,15 @@
 
 ## Hello world 👋
 
-<img src="https://i.imgur.com/7UcFFCs.png">
+<img src="https://i.imgur.com/7UcFFCs.png" width="250">
 
-#### I'm <strong>Lucas Fernando</strong> - Front-end Developer at Nutrin Group. :desktop_computer:
+Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Desenvolvedor Front-end. :desktop_computer:
 
-#### I'm passionate about web development :computer: :iphone:
+Sou simplismente apaixonado pelo que faço e para mim não é um trabalho. :computer: :iphone:
 
-#### Check out my <strong>portfolio</strong> for more information => <a href="https://lucas98fernando.github.io/portfolio/">Lucas Fernando Portfolio</a>
+Deseja conhecer mais sobre mim ? Dá uma olhadinha no meu portifólio => <a href="https://lucas98fernando.github.io/portfolio/">Lucas Fernando Portfolio</a>
 
-
-
-<h2>Main skills:</h2>
+<h2>Principais habilidades:</h2>
 <p>
 <img src="https://camo.githubusercontent.com/4a08fc096918dc1a4eadb627cf2debd306dd827866077dbee020de092c132aad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c5f352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d464646464646" />
 <img src="https://camo.githubusercontent.com/d4a6a9f0529d7f1153a0ac55caba94c260f07558c332b857915b2767bb49d503/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353535f332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d464646464646" />
@@ -24,6 +22,6 @@
 <img src="https://camo.githubusercontent.com/7efa4b0fa2f937e8b1800d7b3d8cb02bed1804944dafa8b92941cb8f03f87391/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d3231373539423f7374796c653d666c6174266c6f676f3d776f72647072657373266c6f676f436f6c6f723d464646464646" />
 </p>
 
-<h2>My stats:</h2>
+<h2>Algumas estatísticas:</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&show_icons=true&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
