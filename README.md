@@ -1,4 +1,4 @@
-<h1 align="center">About me :v: :smile:</h1>
+<h1 align="center">Sobre mim :v: :smile:</h1>
 
 ## Hello world 👋
 
