@@ -1,9 +1,9 @@
 
-<h1 align="center">Hello world 👋</h1>
+<h1>Hello world 👋</h1>
 
-<h1 align="center">Seja muito bem-vindo ! :v: :smile:</h1>
+<h1>Seja muito bem-vindo ! :v: :smile:</h1>
 
-<p align="center"><img src="https://i.imgur.com/7UcFFCs.png" width="250"></p>
+<img src="https://i.imgur.com/7UcFFCs.png" width="250">
 
 Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Desenvolvedor Front-end. :desktop_computer:
 
