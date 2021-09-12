@@ -1,6 +1,6 @@
 <h1>Hello world 👋</h1>
 
-<h1>Seja muito bem-vindo ! :v: :smile:</h1>
+<h2>Seja muito bem-vindo ! :v: :smile:</h2>
 
 <img src="https://i.imgur.com/7UcFFCs.png" width="250">
 
