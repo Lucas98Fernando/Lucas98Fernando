@@ -6,6 +6,8 @@
 
 Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas de Informação e atualmente trabalho como Desenvolvedor Front-end. :desktop_computer:
 
+Um dos meus maiores sonhos profissionais é se tornar um programador fullstack, diante disso, eu tenho me dedicado bastante, estudando muito, lendo sobre o assunto e desenvolvendo alguns projetos pessoais para atingir esse objetivo.
+
 Sou simplismente apaixonado pelo que faço e para mim não é um trabalho. :computer: :iphone:
 
 <h2>Principais linguagens, frameworks e ferramentas que utilizo:</h2>
