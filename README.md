@@ -36,4 +36,4 @@ Sou simplismente apaixonado pelo que faço e para mim não é um trabalho. :comp
 
 <h2>Algumas estatísticas:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&hide=contribs,prs&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&hide=contribs,prs&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
