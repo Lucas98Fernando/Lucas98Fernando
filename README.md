@@ -6,7 +6,7 @@
 
 Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas de Informação e trabalho a mais de 1 ano como Desenvolvedor Front-end. :desktop_computer:
 
-Um dos meus maiores sonhos pessoais é tornar a vida e o trabalho das pessoas melhor, através da tecnologia, contribuindo na automatização de tarefas e ótimas experiências na utilização de aplicações de maneira geral. Com relação a sonho profissional, eu tenho como meta me tornar um especialista no que faço, diante disso, eu tenho me dedicado bastante, estudando muito, lendo sobre o assunto, trocando experiências com outras pessoas e desenvolvendo alguns projetos pessoais para atingir esse objetivo. Eu gosto muito também de ensinar o que sei para outras pessoas.
+Um dos meus maiores sonhos pessoais é tornar a vida e o trabalho das pessoas melhor através da tecnologia, contribuindo na automação de tarefas e ótimas experiências na utilização de aplicações de maneira geral. Com relação a sonho profissional, eu tenho como meta me tornar um especialista no que faço, diante disso, eu tenho me dedicado bastante, estudando muito, lendo sobre o assunto, trocando experiências com outras pessoas e desenvolvendo alguns projetos pessoais para atingir esse objetivo. Eu gosto muito também de ensinar o que sei para outras pessoas.
 
 Sou simplismente apaixonado pelo que faço e para mim não é um trabalho. :computer: :iphone:
 
