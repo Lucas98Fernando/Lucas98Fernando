@@ -1,41 +1,16 @@
-<h1>Hello world 👋</h1>
+# 💫 About Me:
+Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas de Informação e trabalho a mais de 1 ano como Desenvolvedor web. 🖥️<br><br>Um dos meus maiores sonhos pessoais é tornar a vida e o trabalho das pessoas melhor através da tecnologia, contribuindo na automação de tarefas e ótimas experiências na utilização de aplicações de maneira geral. Com relação a sonho profissional, eu tenho como meta me tornar um especialista no que faço, diante disso, eu tenho me dedicado bastante, estudando muito, lendo sobre o assunto, trocando experiências com outras pessoas e desenvolvendo alguns projetos pessoais para atingir esse objetivo. Eu gosto muito também de ensinar o que sei para outras pessoas.<br><br>Sou simplesmente apaixonado pelo que faço e para mim não é um trabalho. 💻 📱
 
-<h2>Seja muito bem-vindo ! :v: :smile:</h2>
 
-<img src="https://i.imgur.com/7UcFFCs.png" width="250">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-fernando-dev/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCY6jptq0eqpLqGVvZ3JCS8Q) 
 
-Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas de Informação e trabalho a mais de 1 ano como Desenvolvedor web. :desktop_computer:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucas98fernando&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucas98fernando&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas98fernando&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Um dos meus maiores sonhos pessoais é tornar a vida e o trabalho das pessoas melhor através da tecnologia, contribuindo na automação de tarefas e ótimas experiências na utilização de aplicações de maneira geral. Com relação a sonho profissional, eu tenho como meta me tornar um especialista no que faço, diante disso, eu tenho me dedicado bastante, estudando muito, lendo sobre o assunto, trocando experiências com outras pessoas e desenvolvendo alguns projetos pessoais para atingir esse objetivo. Eu gosto muito também de ensinar o que sei para outras pessoas.
-
-Sou simplesmente apaixonado pelo que faço e para mim não é um trabalho. :computer: :iphone:
-
-<h2>Principais linguagens, frameworks e ferramentas que utilizo ou já trabalhei:</h2>
-
-<p>
-  <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  &nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  &nbsp;
-  <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
-  &nbsp;
-  <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
-   &nbsp;
-  <img width="40" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
-</p>
-
-<h2>Algumas estatísticas:</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&hide=contribs,prs&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=lucas98fernando&icon=0&color=3)](https://visitcount.itsvg.in)
