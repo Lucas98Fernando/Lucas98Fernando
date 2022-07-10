@@ -12,6 +12,3 @@ Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas d
 ![](https://github-readme-stats.vercel.app/api?username=lucas98fernando&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucas98fernando&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas98fernando&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=lucas98fernando&icon=0&color=3)](https://visitcount.itsvg.in)
