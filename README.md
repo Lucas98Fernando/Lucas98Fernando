@@ -12,4 +12,4 @@ Olá, visitante ! Tudo bem ? Me chamo Lucas Fernando, sou Bacharel em Sistemas d
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lucas98Fernando&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucas98Fernando&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas98Fernando&langs_count=6&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
