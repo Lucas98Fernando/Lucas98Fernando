@@ -1,7 +1,7 @@
 # Hello! Welcome to my GitHub! 👋 
 My name is Lucas Fernando. I hold a Bachelor's degree in Information Systems and work as a Software Developer, with over 6 years of experience in software development, primarily focused on web and mobile applications.
 
-## 🎓 About me
+## 🎓 About Me
 <img src="https://i.imgur.com/7UcFFCs.png" width="250">
 I'm passionate about technology and believe in its potential to transform the way people live and work. My goal is to build solutions that streamline processes, solve real-world problems, and deliver increasingly better user experiences.
 <br>
@@ -27,7 +27,7 @@ I believe professional growth is a continuous process. That's why I'm always loo
 <br>
 I also enjoy sharing knowledge, exchanging ideas and experiences with other developers, and contributing to the growth of the tech community.
 
-## 🎯 My purpose
+## 🎯 My Purpose
 
 To build high-quality software, create solutions that deliver real value to people, and continue growing as a professional while embracing new challenges and learning opportunities.
 
