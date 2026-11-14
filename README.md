@@ -1,12 +1,12 @@
-# Olá! Seja bem-vindo ao meu GitHub! 👋 
-Me chamo Lucas Fernando, sou Bacharel em Sistemas de Informação e Desenvolvedor de Software, com mais de 6 anos de experiência na área de desenvolvimento, atuando principalmente com aplicações web e mobile.
+# Hello! Welcome to my GitHub! 👋 
+My name is Lucas Fernando. I hold a Bachelor's degree in Information Systems and work as a Software Developer, with over 6 years of experience in software development, primarily focused on web and mobile applications.
 
-## 🎓 Sobre mim
+## 🎓 About me
 <img src="https://i.imgur.com/7UcFFCs.png" width="250">
-Sou apaixonado por tecnologia e acredito no seu potencial de transformar a maneira como as pessoas vivem e trabalham. Meu objetivo é desenvolver soluções que simplifiquem processos, resolvam problemas reais e proporcionem experiências cada vez melhores aos usuários.
+I'm passionate about technology and believe in its potential to transform the way people live and work. My goal is to build solutions that streamline processes, solve real-world problems, and deliver increasingly better user experiences.
 <br>
 <br>
-Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar em diferentes contextos de negócio, participar de projetos de grande escala e desenvolver aplicações utilizando diferentes tecnologias e abordagens de desenvolvimento. 💻 📱
+Throughout my professional journey, I've had the opportunity to work across different business environments, contribute to large-scale projects, and develop applications using a variety of technologies and development approaches. 💻 📱
 
 ## 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -20,16 +20,16 @@ Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar em 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 📚 Aprendizado e evolução
+## 📚 Continuous Learning and Growth
 
-Acredito que a evolução profissional é um processo contínuo. Por isso, estou sempre buscando aprimorar meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento, performance, usabilidade e novas tecnologias.
+I believe professional growth is a continuous process. That's why I'm always looking to expand my knowledge of software architecture, development best practices, performance optimization, usability, and emerging technologies.
 <br>
 <br>
-Também gosto de compartilhar conhecimentos, trocar experiências com outros desenvolvedores e contribuir para o crescimento da comunidade de tecnologia.
+I also enjoy sharing knowledge, exchanging ideas and experiences with other developers, and contributing to the growth of the tech community.
 
-## 🎯 Meu propósito
+## 🎯 My purpose
 
-Construir software de qualidade, desenvolver soluções que gerem valor para as pessoas e continuar evoluindo como profissional, sempre buscando novos desafios e oportunidades de aprendizado.
+To build high-quality software, create solutions that deliver real value to people, and continue growing as a professional while embracing new challenges and learning opportunities.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-fernando-dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCY6jptq0eqpLqGVvZ3JCS8Q) 
